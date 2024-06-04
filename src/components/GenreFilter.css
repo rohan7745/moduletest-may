@@ -1,0 +1,18 @@
+.genre-filter {
+    margin: 20px;
+  }
+  
+  .genre-filter button {
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .genre-filter button:hover {
+    background-color: #45a049;
+  }
+  
